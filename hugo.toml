@@ -1,0 +1,7 @@
+baseURL = "https://humile.org/"
+languageCode = "en"
+title = "Humile"
+enableRobotsTXT = true
+
+[params]
+description = "An open research community for neutral environmental data governance."
