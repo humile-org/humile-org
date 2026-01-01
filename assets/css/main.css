@@ -1,0 +1,17 @@
+body {
+  font-family: Inter, system-ui, sans-serif;
+  color: #003631;
+  background: #ffffff;
+  line-height: 1.6;
+}
+
+a {
+  color: #003631;
+  text-decoration: underline;
+}
+
+footer {
+  margin-top: 4rem;
+  font-size: 0.9rem;
+  color: #6B7280;
+}
