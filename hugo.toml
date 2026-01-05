@@ -1,4 +1,4 @@
-baseURL = "https://humile.org/"
+baseURL = "/"
 languageCode = "en"
 title = "Humile"
 enableRobotsTXT = true
